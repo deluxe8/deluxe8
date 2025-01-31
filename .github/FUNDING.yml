@@ -1,0 +1,93 @@
+# These <!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Наращивание волос | Настя Оганесян</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+            color: #5c6bc0;
+        }
+        .intro {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            border-radius: 8px;
+        }
+        .intro h2 {
+            color: #5c6bc0;
+            font-size: 28px;
+        }
+        .intro p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #555;
+        }
+        .instagram-link {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            font-weight: bold;
+            color: #5c6bc0;
+        }
+        footer {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Настя Оганесян</h1>
+    <p>Обучение наращиванию волос</p>
+</header>
+
+<section class="intro">
+    <h2>Добро пожаловать!</h2>
+    <p>Я — Настя Оганесян, профессионал в области наращивания волос. Если ты хочешь научиться этому искусству, ты пришел в правильное место!</p>
+    <p>На моей странице ты найдешь информацию о курсах, обучении и последующих консультациях. Мой опыт и профессионализм помогут тебе освоить эту востребованную услугу и начать зарабатывать на ней.</p>
+    <p>Ты можешь следить за моими работами и новыми курсами через мой <a class="instagram-link" href="https://www.instagram.com/nastyaoganesyan?igsh=MTgzbmxvYXM1OWpuaQ==" target="_blank">Instagram</a>.</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Настя Оганесян. Все права защищены.</p>
+</footer>
+
+</body>
+</html>are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+polar: # Replace with a single Polar username
+buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
+thanks_dev: # Replace with a single thanks.dev username
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
